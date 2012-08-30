@@ -4,7 +4,7 @@ Hackn
 
 Hacking? NetHacking?
 
-It's "Hackn"! Yes, yet another NetHack clone, using NCurses!
+It's “Hackn”! Yes, yet another NetHack clone, using NCurses!
 
 Overview:
 =========
@@ -24,7 +24,7 @@ doesn’t need to be bleeding edge).
 Current Status:
 ===============
 
-So alpha, it's practically omega! (I’m positive no one’s *ever* used
+So alpha, it’s practically omega! (I’m positive no one’s *ever* used
 **that** joke before!)
 
 
