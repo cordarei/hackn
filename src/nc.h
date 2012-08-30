@@ -1,3 +1,6 @@
+#ifndef __NC_H__
+#define __NC_H__
+
 #include <curses.h>
 #undef getch
 #undef border
@@ -338,3 +341,5 @@ namespace nc {
     };
 
 }
+
+#endif //__NC_H__
