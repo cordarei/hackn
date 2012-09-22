@@ -24,8 +24,8 @@ doesn’t need to be bleeding edge).
 Current Status:
 ===============
 
-So alpha, it’s practically omega! (I’m positive no one’s *ever* used
-**that** joke before!)
+So alpha, it’s practically omega! (I’m positive no one’s **ever** used
+*that* joke before!)
 
 
 Author &c
